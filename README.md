@@ -21,7 +21,7 @@ Response Example:
     }
   ]
 }
-
+```
 POST /users
 Create a new user.
 
